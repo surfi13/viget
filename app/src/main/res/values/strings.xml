@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viget</string>
+    <string name="widget_name">Погода</string>
+    <string name="weather_api_key">a5e7132974fcc22f032ce766bc4afdb7</string>
+</resources>
